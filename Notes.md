@@ -14,3 +14,7 @@
 ## Common Bugs/Exploits
 
 Denial of Service (DoS)
+- Denial of Service is an exploit that makes the contract unable to be used. It is usually related to block gas limit.
+- Types of possible explots
+  - Unbounded loop
+  - Lack of gas due to operations
