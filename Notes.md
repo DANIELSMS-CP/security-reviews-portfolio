@@ -1,6 +1,6 @@
-## Notes
+# Notes
 
-# Question(s)
+## Question(s)
 
 1. When a protocol gives you only an Etherscan link, what do you think should be your next step?
 
@@ -11,6 +11,6 @@
 > Maybe. We can always review codebases again. However, we need to timebox ourselves. We might not have enough time if we have alot of codebases to review.
 
 
-# Common Bugs/Exploits
+## Common Bugs/Exploits
 
 Denial of Service (DoC)
