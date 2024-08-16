@@ -13,4 +13,4 @@
 
 ## Common Bugs/Exploits
 
-Denial of Service (DoC)
+Denial of Service (DoS)
