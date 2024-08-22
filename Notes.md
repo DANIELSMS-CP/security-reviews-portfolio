@@ -10,6 +10,9 @@
 
 > Maybe. We can always review codebases again. However, we need to timebox ourselves. We might not have enough time if we have alot of codebases to review.
 
+## Solidity Fun Facts
+
+- Binary shifting actually allows overflow
 
 ## Common Bugs/Exploits
 
